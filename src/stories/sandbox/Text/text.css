@@ -1,0 +1,5 @@
+.storybook-text--error {
+  background-color: #F0F0F0;
+  color: #f00;
+  padding: 1rem;
+}
